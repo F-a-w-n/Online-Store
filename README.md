@@ -1,1 +1,3 @@
 # Online-Store
+
+Shamazon is an advanced e-commerce bookstore that combines an extensive catalog of 20+ titles with a highly interactive, client-server architecture. Each book offers at least two customizable purchase options (e.g., Hardcover, Paperback, or E-book). Built with PHP and MySQL, the platform features three dynamic site themes, a responsive mobile-first design, two interactive HTML forms (search and price estimation), a robust admin panel for product and user management, and a comprehensive 5-page Help Wiki with context-sensitive guidance. From rating products to tracking order history, Shamazon delivers a seamless, modern reading community experience.
