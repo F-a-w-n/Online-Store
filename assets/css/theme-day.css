@@ -1,0 +1,4 @@
+/* original code by fawn barisic - sets colours to be white background black text */
+body { background-color: #ffffff; color: #212529; }
+a { color: #007bff; }
+header { background: #f8f9fa; border-bottom: 2px solid #dee2e6; }

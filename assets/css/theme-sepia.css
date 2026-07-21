@@ -1,0 +1,4 @@
+/* original code by fawn barisic - sets background and text colours to shades of brown*/
+body { background-color: #f4ecd8; color: #5b4637; }
+a { color: #8b5a2b; }
+header { background: #eaddc5; border-bottom: 2px solid #c4a882; }

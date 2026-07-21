@@ -1,0 +1,4 @@
+/includes/config.php
+/setup/
+.DS_Store
+*.log
